@@ -1,0 +1,14 @@
+<head profile="http://microformats.org/profile/rel-license">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {% for language in site.languages %}
+    <link rel="alternate" hreflang="{{ language.code | replace: '_', '-' }}" href="{{ site.url | append: language.link }}" />
+  {% endfor %}
+  <meta property="og:locale" content="{{ page.langcode }}" />
+  {% for language in site.languages %}
+    <meta property="og:locale:alternate" content="{{ language.code }}" />
+  {% endfor %}
+</head>

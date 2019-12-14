@@ -1,0 +1,21 @@
+title: Powered by Nginx
+baseurl: ""
+url: "https://poweredbynginx.org"
+github_repo: komachi/poweredbynginx
+theme: minima
+
+twitter:
+  username: antnesterov
+  card: summary
+
+languages:
+  - name: English
+    link: '/'
+    code: en
+  - name: Русский
+    link: '/ru'
+    code: ru
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
