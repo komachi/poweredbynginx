@@ -143,5 +143,5 @@ Lynwood Investments CY Ltd связана с [Александром Мамут�
 <a href="{{ site.url }}">Support nginx</a>
 ```
 
-* Как компания, использующая nginx или любое свободное программное обеспечение, вы можете сделать публичное заявление. Это уже сделали [Яндекс](https://yandex.ru/blog/company/open-source-nashe-vse), [Mail.ru Group](https://habr.com/ru/company/mailru/blog/480116/), [Вконтакте](https://twitter.com/vkontakte/status/1205471300451545089).
+* Как компания, использующая nginx или любое свободное программное обеспечение, вы можете сделать публичное заявление. Это уже сделали [Яндекс](https://yandex.ru/blog/company/open-source-nashe-vse), [Mail.ru Group](https://habr.com/ru/company/mailru/blog/480116/), [Вконтакте](https://twitter.com/vkontakte/status/1205471300451545089), [Okko](https://habr.com/ru/company/okko/blog/480228/), [OZON](https://habr.com/ru/company/ozontech/blog/480244/).
 * [Подпишите открытое письмо](https://habr.com/ru/company/oleg-bunin/blog/480136/) ИТ-сообщества на Хабрахабре.

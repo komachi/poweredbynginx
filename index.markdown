@@ -105,4 +105,4 @@ You can link this page, for example, in footer of your website.
 ```
 
 * As a company using nginx or any free and open source software you can make a public statement. Join 
-[Yandex](https://yandex.ru/blog/company/open-source-nashe-vse), [Mail.ru Group](https://habr.com/ru/company/mailru/blog/480116/), and [VK.com](https://twitter.com/vkontakte/status/1205471300451545089).
+[Yandex](https://yandex.ru/blog/company/open-source-nashe-vse), [Mail.ru Group](https://habr.com/ru/company/mailru/blog/480116/), [VK.com](https://twitter.com/vkontakte/status/1205471300451545089), [Okko](https://habr.com/ru/company/okko/blog/480228/), and [OZON](https://habr.com/ru/company/ozontech/blog/480244/).
