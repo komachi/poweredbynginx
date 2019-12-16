@@ -26,7 +26,7 @@ Search warrant ([page 1]({{ '/assets/doc1.png' | relative_url}}), [page 2]({{ '/
 > 
 > --- [Lynwood Investments CY Ltd official comment, translated by chupasaurus](https://news.ycombinator.com/item?id=21773702)
 
-Lynwood Investments CY Ltd is tied to [Alexander Mamut](https://en.wikipedia.org/wiki/Alexander_Mamut). Nikolay Mamut, Alexander's Mamut son, is an ltimate beneficial owner of Lynwood Investments CY Ltd, [according to Vedomosti](https://www.vedomosti.ru/technology/articles/2019/12/12/818573-rambler).
+Lynwood Investments CY Ltd is tied to [Alexander Mamut](https://en.wikipedia.org/wiki/Alexander_Mamut). Nikolay Mamut, Alexander's Mamut son, is an ultimate beneficial owner of Lynwood Investments CY Ltd, [according to Vedomosti](https://www.vedomosti.ru/technology/articles/2019/12/12/818573-rambler).
 
 ## Why it's important?
 
