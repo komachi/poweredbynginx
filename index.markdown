@@ -2,6 +2,7 @@
 layout: page
 lang: en
 permalink: /
+title: Powered by nginx
 ---
 
 ## What happened?
@@ -27,6 +28,12 @@ Search warrant ([page 1]({{ '/assets/doc1.png' | relative_url}}), [page 2]({{ '/
 > --- [Lynwood Investments CY Ltd official comment, translated by chupasaurus](https://news.ycombinator.com/item?id=21773702)
 
 Lynwood Investments CY Ltd is tied to [Alexander Mamut](https://en.wikipedia.org/wiki/Alexander_Mamut). Nikolay Mamut, Alexander's Mamut son, is an ultimate beneficial owner of Lynwood Investments CY Ltd, [according to Vedomosti](https://www.vedomosti.ru/technology/articles/2019/12/12/818573-rambler).
+
+On 16 December 2019 Rambler Group board of directors was called. It [was decided to](https://t.me/funandprofit/1838): drop contract with Lynwood, ask them to withdraw police statement, ask police to stop criminal case against Nginx Inc., familiarize Nginx Inc. and F5 Networks with some of materials regarding Rambler's claims about possible copyright violation, order HR comittee to investigate Rambler's employees actions about Nginx Inc. case regarding communications with board of directors.
+
+[Per vc.ru information](https://vc.ru/legal/97652-sovet-direktorov-rambler-group-poruchil-menedzhmentu-dobitsya-prekrashcheniya-ugolovnogo-dela-protiv-nginx), on board of directors meeting was also stated that 15 January 2015 the right to protect Rambler's interests was passed to A&NN Holdings Limited (now — Lynwood Investments CY Limited). Lynwood collected the evidence regarding Rambler's participation in nginx development, then turned to the police. Nor Rambler Group's management, nor Sberbank (who carried due diligence as part of deal with Rambler Group at that time) were not notified. 4 December 2019 Rambler Group recieved notice from police declaring them as victim in criminal case. Rambler Group's management were not notified in that case too.
+
+Rambler Group didn't give up on claims.
 
 ## Why it's important?
 
@@ -74,7 +81,7 @@ Igor gave an answer about nginx copyright in 2012 interview to Hacker magazine.
 >
 > This question not only interest you, and we worked on it pretty thoroughly. In Russia, company have rights only to something made as part of job duties or by separate agreement. So you need to have an agreement which says you should develop a software product. I worked as system administrator at Rambler, developing at free time. Product from the start was released under BSD licence, as an open software. Rambler started using nginx when main functionality was ready. Futhermore, first nginx users were Rate.ee and zvuki.ru, not Rambler.
 
-> --- [Interview with Igor Sysoev, Hacker magazine, in Russian](https://habr.com/ru/company/xakep/blog/136354/)
+> --- [Interview with Igor Sysoev, Hacker magazine, in Russian](https://habr.com/en/company/xakep/blog/136354/)
 
 Nginx Inc. passed [due diligence](https://en.wikipedia.org/wiki/Due_diligence) several times, as part of F5 Networks deal and previous investments.
 
@@ -91,10 +98,6 @@ Marker.ru even published official commentary of Rambler's press office regarding
 In 2019 Nginx Inc. [close a deal with F5 Networks](https://www.f5.com/company/news/press-releases/f5-acquires-nginx-to-bridge-netops-devops) for $670m.
 
 Also in 2019 Sberbank bought [46,5% of Rambler Group](https://www.reuters.com/article/us-russia-sberbank-rambler/russias-sberbank-invests-in-media-group-rambler-idUSKCN1RZ293).
-
-> As I understand, long before we became Rambler shareholders, [Rambler] Group handed over rights to acting on that case and filling claims to one of the Alexander Mamut's companies. It was 3 or 4 years ago.
->
-> --- [Lev Hasis, first deputy chairman of the Sberbank directoral board, chairman of Rambler Group board of directors](https://www.kommersant.ru/doc/4195725)
 
 Maxim Konovalov link the case directly with F5 Networks deal
 
@@ -131,4 +134,4 @@ You can link this page, for example, in footer of your website.
 ```
 
 * As a company using nginx or any free and open source software you can make a public statement. Join 
-[Yandex](https://yandex.ru/blog/company/open-source-nashe-vse), [Mail.ru Group](https://habr.com/ru/company/mailru/blog/480116/), [VK.com](https://twitter.com/vkontakte/status/1205471300451545089), [Okko](https://habr.com/ru/company/okko/blog/480228/), and [OZON](https://habr.com/ru/company/ozontech/blog/480244/).
+[Yandex](https://yandex.ru/blog/company/open-source-nashe-vse), [Mail.ru Group](https://habr.com/en/company/mailru/blog/480116/), [VK.com](https://twitter.com/vkontakte/status/1205471300451545089), [Okko](https://habr.com/en/company/okko/blog/480228/), and [OZON](https://habr.com/en/company/ozontech/blog/480244/), [OK.ru](https:/en/company/odnoklassniki/blog/480178/), [QIWI](https://twitter.com/QiwiRussia/status/1205497640970002437), [MTS](https://habr.com/en/company/ru_mts/blog/480202/).

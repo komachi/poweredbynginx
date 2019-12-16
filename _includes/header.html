@@ -2,7 +2,7 @@
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <div class="site-title">{{ page.title || escape }}</div>
 
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -17,7 +17,7 @@
         <div class="trigger">
           {%- for lang in site.languages -%}
             {% if page.lang != lang.code %}
-              <a class="page-link" href="{{ site.url | append: lang.link }}">{{ lang.name }}</a>
+              <a class="page-link" href="{{ site.url | append: lang.link }}">{{ lang.name | escape }}</a>
             {% endif %}
           {%- endfor -%}
         </div>
