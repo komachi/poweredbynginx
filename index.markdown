@@ -9,22 +9,24 @@ title: Powered by nginx
 
 11 december 2019, at morning, police conducted search at home of nginx developers and Nginx Inc. founders [Igor Sysoev](https://en.wikipedia.org/wiki/Igor_Sysoev) and Maxim Konovalov. Police also conducted search at Nginx Inc. Moscow office.
 
+On 8 June 2020 Lynwood Investments filled a case in US claiming that they own rights to nginx and proprietary extensions Nginx Plus.
+
 ## What is nginx and Nginx Inc.?
 
 [nginx](https://en.wikipedia.org/wiki/Nginx) is a popular free and open source [web server](https://en.wikipedia.org/wiki/Web_server). Development started by Igor Sysoev.
 
 [Nginx Inc.](https://www.nginx.com/company/) is a company founded in 2011 by Igor Sysoev and Maxim Konovalov to provide commercial support for nginx.
 
-## What was the reason for the police involment?
+## What happened with Russian case?
 
 Search warrant ([page 1]({{ '/assets/doc1.png' | relative_url}}), [page 2]({{ '/assets/doc2.png' | relative_url}}), in Russian) says that search was conducted because of criminal case under part 3 of article 146 of Russian Criminal code (breach of copyright and related rights).
 
->The Rambler Internet Holding company found that it's exclusive rights on NGINX web server, which was developed by it's employees with use of corporate resources, were violated by third parties. The company gave the right for infringment claims to Lynwood Investments CY Ltd (named A&NN Holdings Limited at the time of the deal), which has a competence in this type of cases.
+> The Rambler Internet Holding company found that it's exclusive rights on NGINX web server, which was developed by it's employees with use of corporate resources, were violated by third parties. The company gave the right for infringment claims to Lynwood Investments CY Ltd (named A&NN Holdings Limited at the time of the deal), which has a competence in this type of cases.
 >
->Lynwood Investments CY Ltd had appealed to law enforcement bodies for the evalution of this situation. They recognized Rambler Internet Holding as victim of actions by unidentified violators and initiated a criminal case.
+> Lynwood Investments CY Ltd had appealed to law enforcement bodies for the evalution of this situation. They recognized Rambler Internet Holding as victim of actions by unidentified violators and initiated a criminal case.
 >
->Lynwood Investments CY Ltd would not comment the case until the court's decision. Wherein we would try to restore the justice with all ways possible and we reserve right to file lawsuits in any jurisdiction where it's needed to protect our interests.
-> 
+> Lynwood Investments CY Ltd would not comment the case until the court's decision. Wherein we would try to restore the justice with all ways possible and we reserve right to file lawsuits in any jurisdiction where it's needed to protect our interests.
+>
 > --- [Lynwood Investments CY Ltd official comment, translated by chupasaurus](https://news.ycombinator.com/item?id=21773702)
 
 Lynwood Investments CY Ltd is tied to [Alexander Mamut](https://en.wikipedia.org/wiki/Alexander_Mamut). Nikolay Mamut, Alexander's Mamut son, is an ultimate beneficial owner of Lynwood Investments CY Ltd, [according to Vedomosti](https://www.vedomosti.ru/technology/articles/2019/12/12/818573-rambler).
@@ -33,7 +35,25 @@ On 16 December 2019 Rambler Group board of directors was called. It [was decided
 
 [Per vc.ru information](https://vc.ru/legal/97652-sovet-direktorov-rambler-group-poruchil-menedzhmentu-dobitsya-prekrashcheniya-ugolovnogo-dela-protiv-nginx), on board of directors meeting was also stated that 15 January 2015 the right to protect Rambler's interests was passed to A&NN Holdings Limited (now — Lynwood Investments CY Limited). Lynwood collected the evidence regarding Rambler's participation in nginx development, then turned to the police. Nor Rambler Group's management, nor Sberbank (who carried due diligence as part of deal with Rambler Group at that time) were not notified. 4 December 2019 Rambler Group recieved notice from police declaring them as victim in criminal case. Rambler Group's management were not notified in that case too.
 
-Rambler Group didn't give up on claims.
+The case was dismissed after Office of the Prosecutor General of the Russian Federation [admitted](https://www.vedomosti.ru/technology/articles/2020/04/28/829241-genprokuratura-nginx) facts of violation of the law during pre-trial investigation.
+
+## US case
+
+On 8 June 2020 Lynwood Investments CY Limited [filled a case](https://dockets.justia.com/docket/california/candce/3:2020cv03778/360617) in US District Court for the Northern District of California. Igor Sysoev and Maxim Konovalov (Nginx Inc. founders), Andrey Alexeev, Maxim Dounin, Gleb Smirnoff (former Rambler employers, hired by Nginx Inc. later), Angus Robertson (CEO of Nginx Inc.), venture funds [Runa Capital](https://en.wikipedia.org/wiki/Runa_Capital) and [E.ventures](https://en.wikipedia.org/wiki/E.ventures) (early Nginx Inc. investors), F5 Networks (current owner of Nginx Inc.), and Nginx Inc. juridical persons maned as defendants.
+
+In issued press-release Lynwood explained it's claims:
+
+> Lynwood seeks damages of at least \$750 million in the action.
+> [...]
+> The lawsuit, however, alleges that Lynwood, not NGINX, Inc., F5 Networks or the other named defendants, is the rightful owner of the NGINX enterprise, including the NGINX software and related commercial software offerings known as NGINX Plus, through an assignment from Rambler.
+>
+> The NGINX software was developed principally by defendant Igor Sysoev and other former Rambler employees during the course of their employment with Rambler, located in Moscow, from 2001 to 2011. The suit alleges that the NGINX software and related proprietary extensions thereto, including NGINX Plus, constitute works for hire owned by Rambler, and now Lynwood as Rambler's assignee.
+>
+> According to the complaint filed by Lynwood, the underlying facts giving rise to the suit were discovered after a whistleblower currently residing in the U.S. disclosed the misconduct in 2019. Lynwood then conducted its own extensive investigation, including a forensic analysis, to verify the whistleblower's revelations before filing suit. The investigation revealed evidence that the former Rambler employees had gone to great lengths to hide their plans and efforts to take the NGINX software and related enterprise and monetize it for their own benefit, without Rambler's knowledge, consent or participation, the complaint states.
+>
+> --- [Lynwood Investments Sues F5 Networks Over Popular NGINX Web Server Software Used by 450 Million Websites Globally](https://www.prnewswire.com/news-releases/lynwood-investments-sues-f5-networks-over-popular-nginx-web-server-software-used-by-450-million-websites-globally-301072683.html)
+
+At the same time RBC sources [said](https://www.rbc.ru/technology_and_media/08/06/2020/5ed51fdf9a79476c683bd9e9) that negotiations are underway about reduction of Mamut's shares. Source claimed that case against Nginx Inc. could be a reason to redistribution of Rambler Group shares so Sberbank will have majority, as it may violate agreement on which Sberbank bought shares.
 
 ## Why it's important?
 
@@ -93,9 +113,9 @@ Marker.ru even published official commentary of Rambler's press office regarding
 
 > We don't have any problems with that, on the contrary, we are happy to assist technological growth.
 >
-> --- [Созданная в «Рамблере» технология получила $3 млн, «Рамблер» на деньги не претендует, Маркер](https://web.archive.org/web/20160307211723/http://www.marker.ru/news/503492)
+> --- [Созданная в «Рамблере» технология получила \$3 млн, «Рамблер» на деньги не претендует, Маркер](https://web.archive.org/web/20160307211723/http://www.marker.ru/news/503492)
 
-In 2019 Nginx Inc. [close a deal with F5 Networks](https://www.f5.com/company/news/press-releases/f5-acquires-nginx-to-bridge-netops-devops) for $670m.
+In 2019 Nginx Inc. [close a deal with F5 Networks](https://www.f5.com/company/news/press-releases/f5-acquires-nginx-to-bridge-netops-devops) for \$670m.
 
 Also in 2019 Sberbank bought [46,5% of Rambler Group](https://www.reuters.com/article/us-russia-sberbank-rambler/russias-sberbank-invests-in-media-group-rambler-idUSKCN1RZ293).
 
@@ -105,12 +125,11 @@ Maxim Konovalov link the case directly with F5 Networks deal
 >
 > --- [‘A typical racket, simple as that’ Nginx co-founder Maxim Konovalov explains Rambler's litigation against his company, which develops the world’s most popular web-server, Meduza](https://meduza.io/en/feature/2019/12/13/a-typical-racket-simple-as-that)
 
+As [Yuri Sinodov pointed](https://t.me/sinod/447), F5 Networks deal is not complete yet. In case of negative adjustment, Nginx Inc. shareholders could lose up to \$8,7m.
 
-As [Yuri Sinodov pointed](https://t.me/sinod/447), F5 Networks deal is not complete yet. In case of negative adjustment, Nginx Inc. shareholders could lose up to $8,7m.
-
-> “Total Closing Consideration” shall mean an amount in cash equal to Six Hundred and Seventy Million Dollars ($670,000,000), plus the Total Closing Consideration Adjustment Amount (which may be a negative number).
+> “Total Closing Consideration” shall mean an amount in cash equal to Six Hundred and Seventy Million Dollars (\$670,000,000), plus the Total Closing Consideration Adjustment Amount (which may be a negative number).
 >
-> “Adjustment Escrow Amount” shall mean two million dollars ($2,000,000).
+> “Adjustment Escrow Amount” shall mean two million dollars (\$2,000,000).
 >
 > “Indemnity Escrow Amount” shall mean an amount equal to one percent (1%) of the Total Closing Consideration.
 >
@@ -118,10 +137,9 @@ As [Yuri Sinodov pointed](https://t.me/sinod/447), F5 Networks deal is not compl
 >
 > --- [MERGER AGREEMENT by and among F5 NETWORKS, INC., NEVA MERGER SUB LIMITED, NGINX, INC., and FORTIS ADVISORS LLC (As Securityholder Representative)](https://www.sec.gov/Archives/edgar/data/1048695/000119312519070884/d713823dex21.htm)
 
-
 ## Support nginx
 
-* Distribute information about nginx case and it's possible effects.
+- Distribute information about nginx case and it's possible effects.
 
 You can link this page, for example, in footer of your website.
 
@@ -133,5 +151,5 @@ You can link this page, for example, in footer of your website.
 <a href="{{ site.url }}">Support nginx</a>
 ```
 
-* As a company using nginx or any free and open source software you can make a public statement. Join 
-[Yandex](https://yandex.ru/blog/company/open-source-nashe-vse), [Mail.ru Group](https://habr.com/en/company/mailru/blog/480116/), [VK.com](https://twitter.com/vkontakte/status/1205471300451545089), [Okko](https://habr.com/en/company/okko/blog/480228/), and [OZON](https://habr.com/en/company/ozontech/blog/480244/), [OK.ru](https:/en/company/odnoklassniki/blog/480178/), [QIWI](https://twitter.com/QiwiRussia/status/1205497640970002437), [MTS](https://habr.com/en/company/ru_mts/blog/480202/).
+- As a company using nginx or any free and open source software you can make a public statement. Join
+  [Yandex](https://yandex.ru/blog/company/open-source-nashe-vse), [Mail.ru Group](https://habr.com/en/company/mailru/blog/480116/), [VK.com](https://twitter.com/vkontakte/status/1205471300451545089), [Okko](https://habr.com/en/company/okko/blog/480228/), and [Ozon.ru](https://habr.com/en/company/ozontech/blog/480244/), [OK.ru](https:/en/company/odnoklassniki/blog/480178/), [QIWI](https://twitter.com/QiwiRussia/status/1205497640970002437), [MTS](https://habr.com/en/company/ru_mts/blog/480202/).
